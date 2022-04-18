@@ -1,0 +1,17 @@
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz_MarkupCompile.cache
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz_MarkupCompile.lref
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\bin\Debug\ProjectEkz.exe.config
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\bin\Debug\ProjectEkz.exe
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\bin\Debug\ProjectEkz.pdb
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\Pages\MainPage.baml
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.g.resources
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.Properties.Resources.resources
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.exe
+C:\Users\Администратор\source\repos\ProjectEkz\ProjectEkz\obj\Debug\ProjectEkz.pdb
